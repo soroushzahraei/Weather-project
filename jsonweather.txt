@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": 48.6693,
+    "lat": 31.3203
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 319.12,
+    "feels_like": 317.32,
+    "temp_min": 319.12,
+    "temp_max": 319.12,
+    "pressure": 989,
+    "humidity": 12,
+    "sea_level": 989,
+    "grnd_level": 987
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.12,
+    "deg": 290
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1722263663,
+  "sys": {
+    "type": 1,
+    "id": 7451,
+    "country": "IR",
+    "sunrise": 1722218400,
+    "sunset": 1722267802
+  },
+  "timezone": 12600,
+  "id": 144448,
+  "name": "Ahvāz",
+  "cod": 200
+}
